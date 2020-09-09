@@ -249,7 +249,7 @@ class CalculatorService {
     constructor() { }
     calculateMonthlyPayment(model) {
         const step1 = model.mortgageAmount;
-        const step2 = model.amortizationYears; // + this.model.amortizationMonths / 12;
+        const step2 = model.amortizationYears;
         const step3 = model.interestRate;
         const step4 = step3 / 100;
         const step5 = step2 * 12;
@@ -711,7 +711,7 @@ class SummaryModel {
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "SummaryComponent", function() { return SummaryComponent; });
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
-/* harmony import */ var _calculator_service__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./../calculator.service */ "./src/app/calculator.service.ts");
+/* harmony import */ var _calculator_service__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../calculator.service */ "./src/app/calculator.service.ts");
 /* harmony import */ var _angular_common__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @angular/common */ "./node_modules/@angular/common/__ivy_ngcc__/fesm2015/common.js");
 
 
