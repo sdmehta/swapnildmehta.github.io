@@ -77,7 +77,6 @@ __webpack_require__.r(__webpack_exports__);
 
 class AppComponent {
     constructor() {
-        this.title = 'mortgage-calculator';
         this.trigger = true;
         this.calculatorModel = new _caculator_model__WEBPACK_IMPORTED_MODULE_1__["CalculatorModel"]();
     }
