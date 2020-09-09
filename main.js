@@ -350,7 +350,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "CalculatorComponent", function() { return CalculatorComponent; });
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/__ivy_ngcc__/fesm2015/core.js");
 /* harmony import */ var _caculator_model__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../caculator.model */ "./src/app/caculator.model.ts");
-/* harmony import */ var _calculator_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./../calculator.service */ "./src/app/calculator.service.ts");
+/* harmony import */ var _calculator_service__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../calculator.service */ "./src/app/calculator.service.ts");
 /* harmony import */ var _angular_forms__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @angular/forms */ "./node_modules/@angular/forms/__ivy_ngcc__/fesm2015/forms.js");
 /* harmony import */ var _ng_bootstrap_ng_bootstrap__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @ng-bootstrap/ng-bootstrap */ "./node_modules/@ng-bootstrap/ng-bootstrap/__ivy_ngcc__/fesm2015/ng-bootstrap.js");
 /* harmony import */ var primeng_inputnumber__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! primeng/inputnumber */ "./node_modules/primeng/__ivy_ngcc__/fesm2015/primeng-inputnumber.js");
